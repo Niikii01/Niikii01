@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Niikii01.
+- 👀 I’m interested in Front-end Development and Content Writing.
+- 🌱 I’m currently learning and exploring new elements in front-end.
